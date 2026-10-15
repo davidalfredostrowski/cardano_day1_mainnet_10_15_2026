@@ -17,6 +17,10 @@
    17  npm init -y
    18  npm pkg set type=module
    19  npm install @meshsdk/core @meshsdk/wallet
+// place it here! 
+npm install @lucid-evolution/lucid
+
+
    20  npm list @meshsdk/wallet
    21  npm list @meshsdk/core
    22  vi validators/hello.ak
